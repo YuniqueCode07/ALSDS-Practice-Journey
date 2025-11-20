@@ -1,2 +1,2 @@
 # ALSDS-Practice-Journey
-This repository will contain my algorithm journey coded in C from first year in ESI
+This repository will contain my algorithm journey coded in C from first year in ESI. These are learning exercises only, nothing more !!
